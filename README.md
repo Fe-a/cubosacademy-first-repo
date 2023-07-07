@@ -1,2 +1,2 @@
-# cubosacademy-first0repo
+# cubosacademy-first-repo
 Meu primeiro repositório com a CubosAcademy
